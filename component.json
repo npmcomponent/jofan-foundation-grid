@@ -9,7 +9,9 @@
     "framework",
     "foundation"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "jofan/foundation-global": "*"
+  },
   "development": {},
   "license": "MIT",
   "styles": [
